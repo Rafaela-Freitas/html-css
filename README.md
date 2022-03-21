@@ -3,4 +3,4 @@
 
 Aprendendo a criar sites e agora a gerenciar os repositorios. <br>
 Teste. <br>
-<a href="file:///C:/Users/Rafa/Desktop/curso-tecnologia/html-css/exercicios/001/indesx.html"> Executar o exercício 001 </a>
+<a href="https://rafaela-freitas.github.io/html-css/exercicios/001/indesx.html"> Executar o exercício 001 </a>
